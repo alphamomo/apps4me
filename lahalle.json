@@ -8,7 +8,7 @@
         "title": "Home",
         "provider": "webview",
         "arguments": [
-          "www.google.com",
+          "https://www.lahalle.com/",
           "deals"
         ]
       },
@@ -16,7 +16,7 @@
         "title": "news",
         "provider": "webview",
         "arguments": [
-          "www.google.com",
+          "https://www.lahalle.com/",
           "usa_new"
         ]
       }
