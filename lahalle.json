@@ -8,7 +8,7 @@
         "title": "Home",
         "provider": "webview",
         "arguments": [
-          "www.lahalle.com",
+          "www.biglots.com",
           "deals"
         ]
       },
