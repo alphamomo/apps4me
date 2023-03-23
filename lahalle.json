@@ -6,17 +6,17 @@
     "tabs": [
       {
         "title": "Home",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
-          "www.biglots.com",
+          "",
           "deals"
         ]
       },
       {
         "title": "news",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
-          "www.lahalle.com",
+          "",
           "usa_new"
         ]
       }
