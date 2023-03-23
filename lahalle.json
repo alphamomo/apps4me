@@ -6,17 +6,17 @@
     "tabs": [
       {
         "title": "Home",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "www.lahalle.com",
           "deals"
         ]
       },
       {
         "title": "news",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "www.lahalle.com",
           "usa_new"
         ]
       }
