@@ -11,14 +11,6 @@
           "https://www.lahalle.com/",
           "deals"
         ]
-      },
-      {
-        "title": "news",
-        "provider": "webview",
-        "arguments": [
-          "https://www.lahalle.com/",
-          "usa_new"
-        ]
       }
   
     ],
