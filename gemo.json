@@ -6,18 +6,10 @@
     "tabs": [
       {
         "title": "Home",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.gemo.fr/",
           "deals"
-        ]
-      },
-      {
-        "title": "news",
-        "provider": "wordpress",
-        "arguments": [
-          "",
-          "usa_new"
         ]
       }
   
