@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "Home",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.damart.fr/",
           "deals"
         ]
       }
