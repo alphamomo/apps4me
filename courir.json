@@ -5,7 +5,15 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
+        "title": "News",
+        "provider": "webview",
+        "arguments": [
+          "https://www.courir.com/",
+          "deals"
+        ]
+      }, 
+      {
+        "title": "Cadeau",
         "provider": "webview",
         "arguments": [
           "https://smrturl.co/o/235144/53340854?s1=",
