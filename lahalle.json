@@ -5,10 +5,18 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
+        "title": "News",
         "provider": "webview",
         "arguments": [
-          "https://smrturl.co/o/235144/53340854?s1=",
+          "https://www.lahalle.com/",
+          "deals"
+        ]
+      }, 
+      {
+        "title": "Cadeau",
+        "provider": "webview",
+        "arguments": [
+          "https://contactos-rapidos.de/AcademicSingles",
           "deals"
         ]
       }
