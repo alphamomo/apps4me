@@ -5,7 +5,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "News",
+        "title": "ACCUEIL",
         "provider": "webview",
         "arguments": [
           "https://www.courir.com/",
