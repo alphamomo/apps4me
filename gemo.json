@@ -5,7 +5,15 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
+        "title": "ACCUEIL",
+        "provider": "webview",
+        "arguments": [
+          "https://www.gemo.fr/",
+          "deals"
+        ]
+      }, 
+      {
+        "title": "Cadeau",
         "provider": "webview",
         "arguments": [
           "https://smrturl.co/o/235144/53326010?s1=",
