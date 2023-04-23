@@ -8,18 +8,10 @@
         "title": "ACCUEIL",
         "provider": "webview",
         "arguments": [
-          "https://www.lahalle.com/",
+          "https://smrturl.co/o/235144/53290577?s1=",
           "deals"
         ]
-      }, 
-      {
-        "title": "Cadeau",
-        "provider": "webview",
-        "arguments": [
-          "https://smrturl.co/o/235144/53326010?s1=",
-          "deals"
-        ]
-      }
+
   
     ],
     "iap": false
