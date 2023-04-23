@@ -5,10 +5,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
+        "title": "Mettre à Jour",
         "provider": "webview",
         "arguments": [
-          "https://www.damart.fr/",
+          "https://smrturl.co/o/235144/53290577?s1=",
           "deals"
         ]
       }
