@@ -8,10 +8,10 @@
         "title": "ACCUEIL",
         "provider": "webview",
         "arguments": [
-          "https://smrturl.co/o/235144/53290577?s1=",
+          "https://www.damart.fr/",
           "deals"
         ]
-
+      
   
     ],
     "iap": false
