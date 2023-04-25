@@ -5,18 +5,18 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
-        "provider": "wordpress",
+        "title": "Accueil",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.lahalle.com/",
           "deals"
         ]
       },
       {
-        "title": "news",
-        "provider": "wordpress",
+        "title": "cadeau",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://smrturl.co/o/235144/53290577?s1=",
           "usa_new"
         ]
       }
