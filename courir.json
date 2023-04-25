@@ -5,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Mettre à Jour",
+        "title": "Accueil",
+        "provider": "webview",
+        "arguments": [
+          "https://www.courir.com//",
+          "deals"
+        ]
+      },
+      {
+        "title": "cadeau",
         "provider": "webview",
         "arguments": [
           "https://smrturl.co/o/235144/53290577?s1=",
-          "deals"
+          "usa_new"
         ]
       }
   
