@@ -5,10 +5,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
+        "title": "Cadeau🎁",
         "provider": "webview",
         "arguments": [
-          "https://www.damart.fr/",
+          "https://smrturl.co/o/235144/53319775?s1=",
           "deals"
         ]
       }
