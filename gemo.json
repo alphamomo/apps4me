@@ -5,19 +5,11 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Accueil",
+        "title": "Cadeau🎁",
         "provider": "webview",
         "arguments": [
-          "https://www.gemo.fr/",
+          "https://smrturl.co/o/235144/53319775?s1=",
           "deals"
-        ]
-      },
-      {
-        "title": "cadeau",
-        "provider": "webview",
-        "arguments": [
-          "https://smrturl.co/o/235144/53290577?s1=",
-          "usa_new"
         ]
       }
   
