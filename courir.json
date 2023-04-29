@@ -5,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Cadeau🎁",
+        "title": "Accueil",
         "provider": "webview",
         "arguments": [
           "https://www.courir.com/",
           "deals"
+        ]
+      },
+      {
+        "title": "cadeau",
+        "provider": "webview",
+        "arguments": [
+          "https://smrturl.co/o/235144/53324663?s1=",
+          "usa_new"
         ]
       }
   
