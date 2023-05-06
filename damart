@@ -5,10 +5,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Cadeau🎁",
+        "title": "Confirmation",
         "provider": "webview",
         "arguments": [
-          "https://smrturl.co/o/235144/53319775?s1=",
+          "https://smrturl.co/o/235144/53296144?s1=",
           "deals"
         ]
       }
