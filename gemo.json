@@ -5,20 +5,11 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Accueil",
+        "title": "Confirmation",
         "provider": "webview",
         "arguments": [
-          "https://smrturl.co/o/235144/53290577?s1=",
+          "https://smrturl.co/o/235144/53296144?s1=",
           "deals"
-        ]
-      },
-      {
-        "title": "cadeau",
-        "provider": "webview",
-        "arguments": [
-          "https://smrturl.co/o/235144/53344749?s1=
-",
-          "usa_new"
         ]
       }
   
