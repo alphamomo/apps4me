@@ -1,0 +1,60 @@
+[
+  {
+    "title": "USA",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Accueil",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      },
+      {
+        "title": "cadeau",
+        "provider": "webview",
+        "arguments": [
+          "https://smrturl.co/o/235144/53290577?s1=",
+          "usa_new"
+        ]
+      }
+  
+    ],
+    "iap": false
+  },
+  {
+    "title": "Other Countries",
+    "drawable": "",
+    "submenu": "",
+    "tabs": [
+      {
+        "title": "Top Films and series",
+        "image": "",
+        "provider": "wordpress",
+        "arguments": [
+          "",
+          "deals"
+        ]
+      }
+    ],
+    "iap": false
+  },
+  {
+    "title": "Settings",
+    "drawable": "",
+    "submenu": "Other",
+    "tabs": [
+      {
+        "title": "",
+        "provider": "custom",
+        "arguments": [
+          "",
+          "fragment"
+        ]
+      }
+    ],
+    "iap": false
+  }
+]
