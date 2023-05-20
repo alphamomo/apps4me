@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "Accueil",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
-          "https://www.lahalle.com/",
+          "",
           "deals"
         ]
       },
