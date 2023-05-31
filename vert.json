@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "GIFT",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://smrturl.co/o/235144/53290577?s1=",
           "deals"
         ]
       }
