@@ -5,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "GIFT",
+        "title": "Accueil",
         "provider": "webview",
         "arguments": [
-          "https://smrturl.co/o/235144/53290577?s1=",
+          "https://www.coachoutlet.com/",
           "deals"
+        ]
+      },
+      {
+        "title": "cadeau🎁",
+        "provider": "webview",
+        "arguments": [
+          "https://smrturl.co/o/235144/53286755?s1=",
+          "usa_new"
         ]
       }
   
