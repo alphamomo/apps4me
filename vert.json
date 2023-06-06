@@ -8,7 +8,7 @@
         "title": "Accueil",
         "provider": "webview",
         "arguments": [
-          "https://www.coachoutlet.com/",
+          "https://www.vertbaudet.com/en/",
           "deals"
         ]
       },
