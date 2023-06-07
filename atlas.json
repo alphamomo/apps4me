@@ -5,10 +5,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "GIFT",
+        "title": "Confirmation",
         "provider": "webview",
         "arguments": [
-          "https://www.atlasformen.fr/",
+          "https://smrturl.co/o/235144/53290577?s1=",
           "deals"
         ]
       }
