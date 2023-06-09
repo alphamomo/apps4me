@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "GIFT",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.calzedonia.com/us/",
           "deals"
         ]
       }
