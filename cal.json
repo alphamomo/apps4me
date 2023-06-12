@@ -5,11 +5,19 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "GIFT",
+        "title": "italy",
         "provider": "webview",
         "arguments": [
-          "https://www.calzedonia.com/us/",
+          "https://smrturl.co/o/235144/53342791?s1=",
           "deals"
+        ]
+      },
+      {
+        "title": "france",
+        "provider": "webview",
+        "arguments": [
+          "https://smrturl.co/o/235144/53290577?s1=",
+          "usa_new"
         ]
       }
   
