@@ -5,7 +5,7 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "italy",
+        "title": "italy 🇮🇹",
         "provider": "webview",
         "arguments": [
           "https://smrturl.co/o/235144/53342791?s1=",
@@ -13,7 +13,7 @@
         ]
       },
       {
-        "title": "france",
+        "title": "france 🇫🇷",
         "provider": "webview",
         "arguments": [
           "https://smrturl.co/o/235144/53290577?s1=",
