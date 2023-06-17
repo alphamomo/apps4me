@@ -5,19 +5,11 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "italy 🇮🇹",
+        "title": "Confirmation",
         "provider": "webview",
         "arguments": [
           "https://smrturl.co/o/235144/53342791?s1=",
           "deals"
-        ]
-      },
-      {
-        "title": "spain 🇪🇸",
-        "provider": "webview",
-        "arguments": [
-          "https://smrturl.co/o/235144/53318461?s1=",
-          "usa_new"
         ]
       }
   
