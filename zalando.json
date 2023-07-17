@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "Confirmation",
-        "provider": "webview",
+        "provider": "wordpress",
         "arguments": [
-          "https://www.google.com/",
+          "",
           "deals"
         ]
       }
