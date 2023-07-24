@@ -5,10 +5,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Confirmation",
+        "title": "Home",
         "provider": "webview",
         "arguments": [
-          "https://smrturl.co/o/235144/53351690?s1=",
+          "https://www.lahalle.com/",
           "deals"
         ]
       }
