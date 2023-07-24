@@ -5,10 +5,10 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Home",
+        "title": "Confirmation",
         "provider": "webview",
         "arguments": [
-          "https://www.lahalle.com/",
+          "https://smrturl.co/o/235144/53351690?s1=",
           "deals"
         ]
       }
@@ -22,11 +22,11 @@
     "submenu": "",
     "tabs": [
       {
-        "title": "Top Films and series",
+        "title": "HOME",
         "image": "",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.courir.com/",
           "deals"
         ]
       }
