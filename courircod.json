@@ -11,14 +11,6 @@
           "https://smrturl.co/o/235144/53351690?s1=",
           "deals"
         ]
-      },
-      {
-        "title": "Accueil",
-        "provider": "webview",
-        "arguments": [
-          "https://www.courir.com/",
-          "usa_new"
-        ]
       }
   
     ],
