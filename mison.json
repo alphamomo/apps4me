@@ -6,9 +6,9 @@
     "tabs": [
       {
         "title": "Confirmation",
-        "provider": "wordpress",
+        "provider": "webview",
         "arguments": [
-          "",
+          "https://www.maisonsdumonde.com/",
           "deals"
         ]
       }
